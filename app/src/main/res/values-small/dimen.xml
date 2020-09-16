@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">
+        10sp
+    </dimen>
+    <dimen name="logoWidth">50dp</dimen>
+    <dimen name="logoHeight">50dp</dimen>
+</resources>
